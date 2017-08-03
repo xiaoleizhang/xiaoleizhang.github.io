@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work and Live on Work and Live</title>
+    <link>http://xiaoleizhang.github.io/en/</link>
+    <description>Recent content in Work and Live on Work and Live</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Xiaolei Zhang</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/en/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://xiaoleizhang.github.io/en/post/cyber_security/</link>
+      <pubDate>Wed, 26 Jul 2017 00:44:19 +0000</pubDate>
+      
+      <guid>http://xiaoleizhang.github.io/en/post/cyber_security/</guid>
+      <description>
+
+&lt;h1 id=&#34;工业控制系统安全相关资料&#34;&gt;工业控制系统安全相关资料&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;专著&#34;&gt;专著&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;论文&#34;&gt;论文&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;相关研究者&#34;&gt;相关研究者&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://people.kth.se/~hsan/&#34; target=&#34;_blank&#34;&gt;Henrik Sandberg&lt;/a&gt;
+&lt;a href=&#34;http://homepage.tudelft.nl/6s06f/&#34; target=&#34;_blank&#34;&gt;André M. H. Teixeira&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;网络资源&#34;&gt;网络资源&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/ITI/ICS-Security-Tools&#34; target=&#34;_blank&#34;&gt;Tools, tips, tricks, and more for exploring ICS Security&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/w3h/icsmaster&#34; target=&#34;_blank&#34;&gt;ICS/SCADA Security Resource&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/tanjiti/icstools&#34; target=&#34;_blank&#34;&gt;ics security tools &lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/Cloud-Automation/node-modbus&#34; target=&#34;_blank&#34;&gt;Modbus TCP Client/Server implementation for Node.JS&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/minaandrawos/OPCModbusUAServer&#34; target=&#34;_blank&#34;&gt;An open source OPC UA server for Modbus TCP devices&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/Newterm/szarp&#34; target=&#34;_blank&#34;&gt;SZARP is a full-featured and free SCADA system for GNU/Linux&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/enddo/smod&#34; target=&#34;_blank&#34;&gt;MODBUS Penetration Testing Framework&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nothings/single_file_libs&#34; target=&#34;_blank&#34;&gt;List of single-file C/C++ libraries&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

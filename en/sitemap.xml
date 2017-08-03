@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://xiaoleizhang.github.io/en/post/cyber_security/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://xiaoleizhang.github.io/zh/post/cyber_security/" hreflang="zh"/>
+    
+      <loc>http://xiaoleizhang.github.io/en/post/cyber_security/</loc>
+      <lastmod>2017-07-26T00:44:19+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://xiaoleizhang.github.io/en/categories/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://xiaoleizhang.github.io/zh/categories/" hreflang="zh"/>
+    
+      <loc>http://xiaoleizhang.github.io/en/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://xiaoleizhang.github.io/en/post/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://xiaoleizhang.github.io/zh/post/" hreflang="zh"/>
+    
+      <loc>http://xiaoleizhang.github.io/en/post/</loc>
+      <lastmod>2017-07-26T00:44:19+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://xiaoleizhang.github.io/en/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://xiaoleizhang.github.io/zh/tags/" hreflang="zh"/>
+    
+      <loc>http://xiaoleizhang.github.io/en/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://xiaoleizhang.github.io/en/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://xiaoleizhang.github.io/zh/" hreflang="zh"/>
+    
+      <loc>http://xiaoleizhang.github.io/en/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>
