@@ -18,27 +18,69 @@
       <guid>http://xiaoleizhang.github.io/zh/post/cyber_security/</guid>
       <description>
 
-&lt;h1 id=&#34;工业控制系统安全相关资料&#34;&gt;工业控制系统安全相关资料&lt;/h1&gt;
+&lt;h1 id=&#34;工业控制系统安全资料汇总&#34;&gt;工业控制系统安全资料汇总&lt;/h1&gt;
+
+&lt;h2 id=&#34;专著-1&#34;&gt;&lt;a href=&#34;#1&#34;&gt;专著&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;论文-2&#34;&gt;&lt;a href=&#34;#2&#34;&gt;论文&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;相关研究者-3&#34;&gt;&lt;a href=&#34;#3&#34;&gt;相关研究者&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;网络资源-4&#34;&gt;&lt;a href=&#34;#4&#34;&gt;网络资源&lt;/a&gt;&lt;/h2&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;专著&#34;&gt;专著&lt;/h2&gt;
+&lt;p&gt;&lt;h2 id=&#34;1&#34;&gt;专著&lt;h2&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;论文&#34;&gt;论文&lt;/h2&gt;
+&lt;p&gt;&lt;h2 id=&#34;2&#34;&gt;论文&lt;h2&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;相关研究者&#34;&gt;相关研究者&lt;/h2&gt;
+&lt;p&gt;&lt;h2 id=&#34;3&#34;&gt;相关研究者&lt;h2&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://people.kth.se/~hsan/&#34; target=&#34;_blank&#34;&gt;Henrik Sandberg&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.utdallas.edu/~alvaro.cardenas/&#34; target=&#34;_blank&#34;&gt;Alvaro A. Cardenas&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://homepage.tudelft.nl/6s06f/&#34; target=&#34;_blank&#34;&gt;André M. H. Teixeira&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://people.kth.se/~hsan/&#34; target=&#34;_blank&#34;&gt;Henrik Sandberg&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://homepage.tudelft.nl/6s06f/&#34; target=&#34;_blank&#34;&gt;André M. H. Teixeira&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://people.kth.se/~kallej/&#34; target=&#34;_blank&#34;&gt;Karl Henrik Johansson&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://users.ece.cmu.edu/~brunos/index.html&#34; target=&#34;_blank&#34;&gt;Bruno Sinopoli&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.nicolaforti.com/&#34; target=&#34;_blank&#34;&gt;Nicola Forti&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://yilinmo.github.io/&#34; target=&#34;_blank&#34;&gt;Yilin Mo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.ece.ust.hk/~eesling/&#34; target=&#34;_blank&#34;&gt;Ling Shi&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://controlsystems.upb.de/en/team/prof-dr-daniel-e-quevedo.html&#34; target=&#34;_blank&#34;&gt;Daniel E. Quevedo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://motion.me.ucsb.edu/&#34; target=&#34;_blank&#34;&gt;Francesco Bullo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.fabiopas.it/&#34; target=&#34;_blank&#34;&gt;Fabio Pasqualetti&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://control.ee.ethz.ch/~floriand/&#34; target=&#34;_blank&#34;&gt;Florian Dörfler&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://engineering.utsa.edu/~taha/index.html&#34; target=&#34;_blank&#34;&gt;Ahmad Taha&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://imanshames.blog/&#34; target=&#34;_blank&#34;&gt;Iman Shames&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://sites.google.com/a/uah.edu/tommy-morris-uah/home&#34; target=&#34;_blank&#34;&gt;Thomas H. (Tommy) Morris&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/eejhwang/home&#34; target=&#34;_blank&#34;&gt;Jianhui Wang&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://people.engr.ncsu.edu/achakra2/&#34; target=&#34;_blank&#34;&gt;Aranya Chakrabortty&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.iis.ee.ic.ac.uk/dgunduz/&#34; target=&#34;_blank&#34;&gt;Deniz Gündüz&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;网络资源&#34;&gt;网络资源&lt;/h2&gt;
+&lt;p&gt;&lt;h2 id=&#34;4&#34;&gt;网络资源&lt;h2&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/ITI/ICS-Security-Tools&#34; target=&#34;_blank&#34;&gt;Tools, tips, tricks, and more for exploring ICS Security&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
