@@ -12,32 +12,8 @@
     
     <item>
       <title></title>
-      <link>http://xiaoleizhang.github.io/zh/custom/intelligent-control/</link>
-      <pubDate>Thu, 03 Aug 2017 18:37:37 +0000</pubDate>
-      
-      <guid>http://xiaoleizhang.github.io/zh/custom/intelligent-control/</guid>
-      <description>
-
-&lt;h1 id=&#34;智能控制基础&#34;&gt;智能控制基础&lt;/h1&gt;
-
-&lt;h2 id=&#34;上课时间&#34;&gt;上课时间&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;周二、周四7~8节，1-4周&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;上课地点&#34;&gt;上课地点&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;H463&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://xiaoleizhang.github.io/zh/post/cyber_security/</link>
-      <pubDate>Thu, 03 Aug 2017 02:06:18 +0000</pubDate>
+      <pubDate>Tue, 15 Aug 2017 02:17:08 +0000</pubDate>
       
       <guid>http://xiaoleizhang.github.io/zh/post/cyber_security/</guid>
       <description>
@@ -54,12 +30,15 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;h2 id=&#34;1&#34;&gt;专著、章节、学位论文&lt;h2&gt;
-&lt;a href=&#34;http://xiaoleizhang.github.io/doc/ref-books.bib&#34;&gt;bibtex文件下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;h2 id=&#34;1&#34;&gt;专著、章节、学位论文汇总&lt;h2&gt;
+&lt;a href=&#34;http://xiaoleizhang.github.io/doc/ref-books.bib&#34;&gt;BibTeX&lt;/a&gt;
+2017-08-15更新&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;h2 id=&#34;2&#34;&gt;期刊/会议论文&lt;h2&gt;&lt;/p&gt;
+&lt;p&gt;&lt;h2 id=&#34;2&#34;&gt;期刊、会议论文汇总&lt;h2&gt;
+&lt;a href=&#34;http://xiaoleizhang.github.io/doc/ref-articles.bib&#34;&gt;BibTeX&lt;/a&gt;
+2017-09-19更新&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -132,11 +111,47 @@
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/enddo/smod&#34; target=&#34;_blank&#34;&gt;MODBUS Penetration Testing Framework&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.nozominetworks.com/&#34; target=&#34;_blank&#34;&gt;NOZOMI Networks blog&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.nozominetworks.com/&#34; target=&#34;_blank&#34;&gt;NOZOMI Networks blog&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;hr /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/EIPStackGroup/OpENer&#34; target=&#34;_blank&#34;&gt;EtherNet/IP stack for I/O adapter devices&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/OpenAutomationTechnologies/openPOWERLINK_V2&#34; target=&#34;_blank&#34;&gt;An Open Source POWERLINK protocol stack&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/CANopenNode/CANopenNode&#34; target=&#34;_blank&#34;&gt;open source CANopen Stack&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/open62541/open62541/wiki/List-of-Open-Source-OPC-UA-Implementations&#34; target=&#34;_blank&#34;&gt;List of Open Source OPC UA Implementations&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://rise.cs.berkeley.edu/&#34; target=&#34;_blank&#34;&gt;RISELab - Real-time Intelligence with Secure Execution&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/nothings/single_file_libs&#34; target=&#34;_blank&#34;&gt;List of single-file C/C++ libraries&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://xiaoleizhang.github.io/zh/custom/intelligent-control/</link>
+      <pubDate>Thu, 03 Aug 2017 18:37:37 +0000</pubDate>
+      
+      <guid>http://xiaoleizhang.github.io/zh/custom/intelligent-control/</guid>
+      <description>
+
+&lt;h1 id=&#34;智能控制基础&#34;&gt;智能控制基础&lt;/h1&gt;
+
+&lt;h2 id=&#34;上课时间&#34;&gt;上课时间&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;周二、周四7~8节，1-4周&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;上课地点&#34;&gt;上课地点&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;H463&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

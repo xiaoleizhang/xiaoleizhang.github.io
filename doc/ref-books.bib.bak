@@ -185,6 +185,45 @@
   author    = {Mohammad Reza Khalifeh Soltanian, Iraj Sadegh Amiri},
 }
 
+@PhdThesis{Carcano2013phd,
+  author = {Andrea Carcano},
+  title  = {Advanced security aspects on Industrial Control Network},
+  school = {University of Insubria},
+  year   = {2013},
+}
+
+@Book{Das2012,
+  title     = {Handbook on Securing Cyber-Physical Critical Infrastructure},
+  publisher = {MORGAN KAUFMANN PUBL INC},
+  year      = {2012},
+  author    = {Das, Sajal K. and Kant, Krishna and Zhang, Nan},
+  isbn      = {0124158153},
+  date      = {2012-02-11},
+  ean       = {9780124158153},
+  pagetotal = {848},
+  url       = {http://www.ebook.de/de/product/16347886/sajal_k_das_krishna_kant_nan_zhang_handbook_on_securing_cyber_physical_critical_infrastructure.html},
+}
+
+@PhdThesis{Teixeira2014phd,
+  author = {André Teixeira},
+  title  = {Toward Cyber-Secure and Resilient Networked Control Systems},
+  school = {KTH Royal Institute of Technology},
+  year   = {2014},
+}
+
+@Article{Kaster2017,
+  author    = {Paul Kaster and Pankaj P.K. Sen},
+  title     = {Cybersecurity and Rural Electric Power Systems: Considering Competing Requirements for Implementing a Protection Plan},
+  journal   = {{IEEE} Industry Applications Magazine},
+  year      = {2017},
+  volume    = {23},
+  number    = {5},
+  pages     = {14--20},
+  month     = {sep},
+  doi       = {10.1109/mias.2016.2600738},
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+}
+
 @MastersThesis{hudongping2015hit,
   author = {胡冬平},
   title  = {工业控制系统组态软件安全防护关键技术研究},
