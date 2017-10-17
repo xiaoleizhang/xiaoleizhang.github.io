@@ -5,11 +5,8 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="http://xiaoleizhang.github.io/zh/post/cyber_security/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="http://xiaoleizhang.github.io/en/post/cyber_security/" hreflang="en"/>
-    
-      <loc>http://xiaoleizhang.github.io/zh/post/cyber_security/</loc>
-      <lastmod>2017-08-15T02:17:08+00:00</lastmod>
+      <loc>http://xiaoleizhang.github.io/zh/custom/intelligent-control/</loc>
+      <lastmod>2017-10-18T01:34:14+00:00</lastmod>
     </url>
     
   
@@ -17,8 +14,11 @@
     
     <url>
     
-      <loc>http://xiaoleizhang.github.io/zh/custom/intelligent-control/</loc>
-      <lastmod>2017-08-03T18:37:37+00:00</lastmod>
+      <xhtml:link rel="alternate" href="http://xiaoleizhang.github.io/zh/post/cyber_security/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="http://xiaoleizhang.github.io/en/post/cyber_security/" hreflang="en"/>
+    
+      <loc>http://xiaoleizhang.github.io/zh/post/cyber_security/</loc>
+      <lastmod>2017-08-15T02:17:08+00:00</lastmod>
     </url>
     
   
@@ -48,7 +48,7 @@
     <url>
     
       <loc>http://xiaoleizhang.github.io/zh/custom/</loc>
-      <lastmod>2017-08-03T18:37:37+00:00</lastmod>
+      <lastmod>2017-10-18T01:34:14+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -87,7 +87,7 @@
       <xhtml:link rel="alternate" href="http://xiaoleizhang.github.io/en/" hreflang="en"/>
     
       <loc>http://xiaoleizhang.github.io/zh/</loc>
-      <lastmod>2017-09-19T13:53:48+00:00</lastmod>
+      <lastmod>2017-10-18T01:34:53+00:00</lastmod>
       <priority>0</priority>
     </url>
     

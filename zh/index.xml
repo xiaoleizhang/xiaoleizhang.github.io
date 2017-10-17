@@ -7,8 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>&amp;copy; 2017 Xiaolei Zhang</copyright>
-    <lastBuildDate>Tue, 19 Sep 2017 13:53:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2017 01:34:53 +0000</lastBuildDate>
     <atom:link href="/zh/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://xiaoleizhang.github.io/zh/custom/intelligent-control/</link>
+      <pubDate>Wed, 18 Oct 2017 01:34:14 +0000</pubDate>
+      
+      <guid>http://xiaoleizhang.github.io/zh/custom/intelligent-control/</guid>
+      <description>
+
+&lt;h1 id=&#34;智能控制基础&#34;&gt;智能控制基础&lt;/h1&gt;
+
+&lt;h2 id=&#34;上课时间&#34;&gt;上课时间&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;周二、周四7~8节，1-4周&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;上课地点&#34;&gt;上课地点&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;H463&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/xiaoleizhang/IntelligentControl&#34; target=&#34;_blank&#34;&gt;课件下载&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -130,30 +156,6 @@
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://rise.cs.berkeley.edu/&#34; target=&#34;_blank&#34;&gt;RISELab - Real-time Intelligence with Secure Execution&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/nothings/single_file_libs&#34; target=&#34;_blank&#34;&gt;List of single-file C/C++ libraries&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://xiaoleizhang.github.io/zh/custom/intelligent-control/</link>
-      <pubDate>Thu, 03 Aug 2017 18:37:37 +0000</pubDate>
-      
-      <guid>http://xiaoleizhang.github.io/zh/custom/intelligent-control/</guid>
-      <description>
-
-&lt;h1 id=&#34;智能控制基础&#34;&gt;智能控制基础&lt;/h1&gt;
-
-&lt;h2 id=&#34;上课时间&#34;&gt;上课时间&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;周二、周四7~8节，1-4周&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;上课地点&#34;&gt;上课地点&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;H463&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
